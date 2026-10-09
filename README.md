@@ -1,7 +1,5 @@
 # SQL Exercise
-
 This repository contains my SQL exercises and practice activities completed as part of my Business Analytics learning journey.
-
 The exercises focus on using SQL to work with databases, including:
 
 * Writing basic SQL queries

@@ -1,4 +1,3 @@
-
 # SQL Exercise
 
 This repository contains my SQL exercises and practice activities completed as part of my Business Analytics learning journey.

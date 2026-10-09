@@ -1,6 +1,6 @@
 # SQL Exercises and Practice
 
-This repository documents my learning journey in **Business Analytics**, with a focus on developing practical SQL skills for querying databases, analysing data, and extracting meaningful insights.
+# This repository documents my learning journey in **Business Analytics**, with a focus on developing practical SQL skills for querying databases, analysing data, and extracting meaningful insights.
 
 ## 📚 What You'll Find Here
 
